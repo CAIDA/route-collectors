@@ -1,2 +1,2 @@
 # route-collectors
-This repository contains project materials for collaboration on information pertaining to BGP Route Collectors
+This repository contains  materials related to the BGP Route Collectors Collaboration
